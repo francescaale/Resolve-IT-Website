@@ -1,6 +1,6 @@
 # Resolve-IT-Website
 
-This is a group project given us by Vision West Nottinghamshire College's Resolve IT Department. It provides IT support and services to students in need.
+This is a group project given to us by Vision West Nottinghamshire College's Resolve IT Department. It provides IT support and services to students in need.
 
 Features:
 - Home Section: Welcome message and call-to-action for service offers.
@@ -9,5 +9,5 @@ Features:
 - Contact Section: Provides contact information and a form for inquiries and service requests.
 - Footer: Links to social media profiles (TikTok, Instagram, Facebook).
 
-Technologies Used:
+Used:
 - HTML, CSS, JavaScript
